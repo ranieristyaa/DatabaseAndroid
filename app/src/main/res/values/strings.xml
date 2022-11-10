@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Data FSM</string>
+    <string name="Add_New">Add Ruangan</string>
+    <string name="edit">Edit Ruang</string>
+    <string name="delete">Delete Ruang</string>
+    <string name="name">Nama</string>
+    <string name="kapasitas">Kapasitas</string>
+    <string name="save">Save Ruangan</string>
+    <string name="deleteContact">Are you sure, you want to delete it.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="data_ruangan_fsm">Data Ruangan FSM</string>
+    <string name="title_activity_display_ruang" />
+</resources>
